@@ -9,7 +9,8 @@ const questions = [
       "Use GKE private clusters for all Kubernetes workloads."
     ],
     "answer": [
-      "Verify EHR's product usage against the list of compliant products on the Google Cloud compliance page.;Advise EHR to execute a Business Associate Agreement (BAA) with Google Cloud."
+      "Verify EHR's product usage against the list of compliant products on the Google Cloud compliance page."
+      "Advise EHR to execute a Business Associate Agreement (BAA) with Google Cloud."
     ],
     "multiple": true
   },
@@ -22,7 +23,8 @@ const questions = [
       "Configure Container Registry to use vulnerability scanning to confirm that there are no vulnerabilities before deploying the workload."
     ],
     "answer": [
-      "Enable Binary Authorization on GKE, and sign containers as part of a CI/CD pipeline.;Configure Container Registry to use vulnerability scanning to confirm that there are no vulnerabilities before deploying the workload."
+      "Enable Binary Authorization on GKE, and sign containers as part of a CI/CD pipeline."
+      "Configure Container Registry to use vulnerability scanning to confirm that there are no vulnerabilities before deploying the workload."
     ],
     "multiple": true
   },
